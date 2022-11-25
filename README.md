@@ -16,13 +16,13 @@ Maze Solver
 
 ### I have added some comments in the code to explain my approach
 ### POST /maze/solve
- returns a way to exit the maze if possible, else Sorry
- Used Depth First Search
- Parameter in JSON containg the maze
+ - returns a way to exit the maze if possible, else Sorry
+ - Used Depth First Search
+ - Parameter in JSON containg the maze
 
 ### GET /maze/generate
- Genrates a random maze and returns 
- Parameter: max-children - the maximum number of children per node
+ - Genrates a random maze and returns 
+ - Parameter: max-children - the maximum number of children per node
 
 
 
