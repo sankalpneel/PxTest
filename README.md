@@ -15,8 +15,8 @@ Maze Solver
 - pkg\controllers\mazeGenerator.go => contains the code for Random Maze generation
 
 ### I have added some comments in the code to explain my approach
-- POST /maze/solve - returns a way to exit the maze if possible, else Sorry
-Used Depth First Search
+- POST /maze/solve - returns a way to exit the maze if possible, else Sorry\n
+Used Depth First Search\n
 Parameter in JSON containg the maze
 
 - GET /maze/generate - Genrates a random maze and returns 
